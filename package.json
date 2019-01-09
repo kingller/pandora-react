@@ -1,0 +1,23 @@
+{
+  "name": "pandora-react",
+  "version": "0.0.0",
+  "description": "empty project",
+  "keywords": [
+  ],
+  "homepage": "",
+  "bugs": {
+    "url": "https://github.com/kingller/pandora-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kingller/pandora-react.git"
+  },
+  "author": "",
+  "files": [
+    "package.json",
+    "README.md"
+  ],
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
